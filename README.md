@@ -6,3 +6,12 @@ Moving the NFT project to Polygon to increase demand and save on gas involves se
 # Gas Optimization
 
 Gas Optimization in Solidity is a process by which code is written to reduce the amount of gas (the fee needed to process a transaction on the Ethereum blockchain) required to run a contract. This is done by writing efficient and optimized code that requires fewer steps in order to execute the contract. Gas optimization is especially important when writing ERC721 contracts, as these contracts require more gas than other types of Ethereum contracts.
+
+
+# Deployment Environment
+This contract can be deployed in any version of solidity between 0.7.0 to 0.9.0.
+
+# Author
+Namita Munjal
+
+namitamunjal27@gmail.com
