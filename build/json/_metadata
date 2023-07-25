@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Emoji-emotions #1",
+    "description": "These are the emojis with different expressions",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "ea5990bb6c1b42f77bf08a03257364cb959a0669",
+    "edition": 1,
+    "date": 1690289018630,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "emoji5"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Emoji-emotions #2",
+    "description": "These are the emojis with different expressions",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "9d412633d98a18ef9bf3a3b2aedfd09cd4488228",
+    "edition": 2,
+    "date": 1690289018720,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "emoji1"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Emoji-emotions #3",
+    "description": "These are the emojis with different expressions",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "158a8985c647c09dbf0e8a831727b07a89b356ea",
+    "edition": 3,
+    "date": 1690289018811,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "emoji4"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Emoji-emotions #4",
+    "description": "These are the emojis with different expressions",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "4ee41ec0a49fb0a12f7b522825640fb290a87287",
+    "edition": 4,
+    "date": 1690289018900,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "emoji3"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Emoji-emotions #5",
+    "description": "These are the emojis with different expressions",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "734bafb07c04ccd132b6dc1bbdfbc1d4632f115f",
+    "edition": 5,
+    "date": 1690289018994,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "emoji2"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
