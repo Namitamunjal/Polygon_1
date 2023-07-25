@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Emoji-emotions";
 const description = "These are the emojis with different expressions";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://bafybeihuzl3vlndrvwylalfisj2znacupokrhtrty6brfkqj44azgzgnr4";
 
 const solanaMetadata = {
   symbol: "YC",
