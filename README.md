@@ -14,9 +14,9 @@ Moving the NFT project to Polygon to increase demand and save on gas involves se
 * Deposit the NFTs to the Bridge
 * Test balanceOf on Mumbai
 
-  # Tools Used
-  * Hardhat
-  * Foundry
+# Tools Used
+ * Hardhat
+ * Foundry
 
 # Gas Optimization
 
