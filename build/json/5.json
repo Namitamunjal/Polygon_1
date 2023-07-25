@@ -1,0 +1,23 @@
+{
+  "name": "Emoji-emotions #5",
+  "description": "These are the emojis with different expressions",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "734bafb07c04ccd132b6dc1bbdfbc1d4632f115f",
+  "edition": 5,
+  "date": 1690289018994,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "emoji2"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Goo",
+      "value": "Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
