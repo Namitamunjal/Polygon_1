@@ -5,7 +5,7 @@ const hre = require("hardhat");
 const tokenContractJSON = require("../artifacts/contracts/MetaToken.sol/MetaToken.json");
 require('dotenv').config()
 
-const tokenAddress = "0x9d70fb99ef56f4c5d2ca2683e2869b744143d92937ceaf04d129470b85e41c58"; 
+const tokenAddress = "0x69673dbe52bf80cd7e01894397b7e742e092300b923df1f8edf884150600caec"; 
 const tokenABI = tokenContractJSON.abi; //to get the abi information that we need
 
 const walletAddress="0x929AdF89436817637b10cD85AAF533dBE2a8B830";
